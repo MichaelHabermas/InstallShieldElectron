@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "~3.0.0",
-    "@electron-toolkit/utils": "~3.0.0",
+    "@electron-toolkit/utils": "~4.0.0",
     "electron-updater": "~6.1.7"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "@types/react": "~18.2.47",
     "@types/react-dom": "~18.2.18",
     "@vitejs/plugin-react": "~4.2.1",
-    "electron": "~28.1.1",
+    "electron": "~34.0.0",
     "electron-builder": "~24.9.1",
     "electron-vite": "~2.0.0",
     "eslint": "~8.56.0",

@@ -10,25 +10,25 @@ An Electron application with React and TypeScript. using this for vite
 
 ### Install
 
-```bash
-$ npm install
-```
+    ```bash
+    $ npm install
+    ```
 
 ### Development
 
-```bash
-$ npm run dev
-```
+    ```bash
+    $ npm run dev
+    ```
 
 ### Build
 
-```bash
-# For windows
-$ npm run build:win
+    ```bash
+    # For windows
+    $ npm run build:win
 
-# For macOS
-$ npm run build:mac
+    # For macOS
+    $ npm run build:mac
 
-# For Linux
-$ npm run build:linux
-```
+    # For Linux
+    $ npm run build:linux
+    ```
